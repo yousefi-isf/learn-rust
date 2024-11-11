@@ -1,0 +1,9 @@
+Naming conventions :
+    - Variables and Functions => snake_case
+    - Constants and Static Variables => UPPER_SNAKE_CASE
+    - Types (Structs, Enums, Traits, etc.) => PascalCase
+    - Type Parameters (Generics) => T
+
+Data Types : 
+    - scalar types => integers, floating-point numbers, booleans, and characters
+    - compound types => tuples and arrays
